@@ -82,7 +82,7 @@ end
 reverse_each_word("Hello there, and how are you?")
   #=> "olleH ,ereht dna woh era ?uoy"
   
-  
+  let(:sentence2) { "Hi again, just making sure it's reversed!" }
   
   
   
